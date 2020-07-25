@@ -1,0 +1,35 @@
+// Переменные цветов
+
+$gray: #515f67;
+$light-gray: #767370;
+$dark-gray: #353f46;
+$blue: #4bcaff;
+$green: #65c25d;
+$light-green: #89ca89;
+$dark-green: #659f5c;
+$oranges: #f26c4f;
+
+$black: #000;
+$white: #fff;
+
+$base-font-sans-serif: 'Segoe UI', sans-serif;
+
+// Основной размер и цвет текста, семейство шрифта и цвет фона
+$base-text-color: $black;
+$base-background-color: $white !default;
+$font-size-base: 16px !default;
+$line-height-base: 1.2 !default;
+$base-font-family: $base-font-sans-serif !default;
+
+$base-min-width: 320px;
+
+// Цвет глобальной ссылки
+$base-link-color: $blue;
+
+// Переменные font-size для заголовков
+$h1-font-size: 40px;
+$h2-font-size: 27px;
+$h3-font-size: 24px;
+$h4-font-size: 21px;
+$h5-font-size: 17px;
+$h6-font-size: 15px;
